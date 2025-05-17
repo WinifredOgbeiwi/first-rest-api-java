@@ -74,6 +74,15 @@ I built a full REST API using the **Layered Architecture pattern** (Controller �
 | PUT    | `/api/v1/products/{id}`       | Update an existing product           |
 | DELETE | `/api/v1/products/{id}`       | Delete a product by ID               |
 
+## 🖼️ Screenshots
+![Get all](screenshots/get-all.png)
+![Post](screenshots/post.png)
+![Put](screenshots/put.png)
+![Delete](screenshots/delete.png)
+![Get](screenshots/get.png)
+![Database](screenshots/database.png)
+
+
 **Author:** Winifred Imade Ogbeiwi  
 **School:** Vistula University  
 **Track:** Computer Engineering  
